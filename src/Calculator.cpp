@@ -10,6 +10,8 @@ int main()
    char operation;
  
    // Get numbers and mathematical operator from user input
+   // Mittwoch Gruppe: flovb: cout << "MyCalculator \n" << "------------\n" << "Possible operations: +\n" << "Example: 2+4" << endl;
+   cout << "MyCalculator \n" << "------------\n" << "Possible operations: +\n" << "Example: 2+4" << endl;
    cin >> a >> operation >> b;
 
    // Character constants are enclosed in single quotes
